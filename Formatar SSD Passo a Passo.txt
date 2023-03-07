@@ -1,0 +1,17 @@
+Bandeira+R 
+
+diskpart
+
+list disk
+
+select disk (n do ssd)
+
+clean
+
+create partition primary
+
+select partition 1
+
+active
+
+format fs=ntfs quick
