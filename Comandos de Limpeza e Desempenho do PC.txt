@@ -1,0 +1,17 @@
+Bandeira do Windows + R
+Depois digite:
+
+MSTSC
+CMD
+%TEMP%
+TEMP
+MRT
+PREFETCH
+MSCONFIG
+
+Entre como administrador no Pronpt de comando
+Digite CMD na barra de pesquisa
+Depois clique em executar como administrados
+depois
+
+SFC /SCANNOW
